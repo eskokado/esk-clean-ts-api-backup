@@ -10,6 +10,8 @@
     "@typescript-eslint/return-await": "off",
     "@typescript-eslint/restrict-template-expressions": "off",
     "@typescript-eslint/no-misused-promises": "off",
-    "@typescript-eslint/no-redeclare": "off"
+    "@typescript-eslint/no-redeclare": "off",
+    "lines-between-class-members": "off",
+    "@typescript-eslint/lines-between-class-members": "off"
   }  
 }
